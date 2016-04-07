@@ -1,0 +1,32 @@
+.device-button{
+  background:green;
+  color:white;
+  padding:10px;
+  font-size:40px;
+  text-align:center;
+  border-radius:5px;
+  display:block;
+}
+.text-input{
+  display:block;
+  margin:20px 0;
+  width:100%;
+  border:1px solid #CECECE;
+  padding:5px;
+}
+.error{
+  display:none;
+  width:100%;
+  background:#fccccc;
+  padding:10px;
+  border:1px solid red;
+  border-radius:5px;
+  margin:20px 0;
+}
+.resizeable-iframe{
+    display: block;
+    margin: 0 auto; 
+    margin-top: 18px; 
+    height: 768px;
+    width: 1024px;
+}
